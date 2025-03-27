@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwhuw&label=Profile%20views&color=0e75b6&style=flat" alt="iwhuw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwhuw" alt="iwhuw" /></a> </p>
-<img align = "right" alt ="coding"  width= 300 border-radius = 10  src= "https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">
+
+<img align = "right"  width= 300 border-radius = 10  src= "https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">
 
 - 🔭 I’m currently working on [E-library Website](https://github.com/iwhuw/iwhuw)
 
