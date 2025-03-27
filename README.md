@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwhuw" alt="iwhuw" /></a> </p>
 
-- 🔭 I’m currently working on [E-libiry](https://github.com/iwhuw/iwhuw)
+- 🔭 I’m currently working on [E-library Website](https://github.com/iwhuw/iwhuw)
 
 - 🌱 I’m currently learning **currently learning Machine Learning and Fullstack development(MERN)**
 
